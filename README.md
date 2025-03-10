@@ -144,3 +144,4 @@ If you find any bugs or are further interested in the project, please do not hes
 - Prof. Alejandra Valencia, Ph.D ([ac.valencia@uniandes.edu.co](mailto:ac.valencia@uniandes.edu.co))
 - Andrés Martínez S. ([a.martinez@uniandes.edu.co](mailto:a.martinez@uniandes.edu.co))
 - Juan-Rafael Álvarez, Ph.D ([jr.alvarez2101@uniandes.edu.co](mailto:jr.alvarez2101@uniandes.edu.co))
+- Jose Ricardo Mejía, Lab Analyst ([jr.mejia1228@uniandes.edu.co](mailto:jr.mejia12281@uniandes.edu.co))
